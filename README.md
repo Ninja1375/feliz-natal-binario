@@ -55,3 +55,32 @@ Para rodar este projeto em sua máquina local, siga os seguintes passos:
 1. **Faça o download ou clone o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/feliz-natal-binario.git
+
+2. **Abra o arquivo `index.html`**:
+   - O projeto não depende de servidores backend, então você pode simplesmente abrir o arquivo `index.html` em qualquer navegador moderno.
+   - Ao abrir o arquivo, as animações e efeitos começarão automaticamente.
+
+3. **Requisitos**:
+   - Este projeto utiliza bibliotecas externas através de CDNs. Certifique-se de estar conectado à internet para carregar as bibliotecas necessárias, como **UIkit** e **jQuery**.
+
+## Configurações Personalizáveis
+
+Você pode personalizar o comportamento da animação ajustando os seguintes parâmetros no arquivo `script.js`:
+
+- **frameTimer**: 
+  - Controla o intervalo entre os quadros de animação. O valor padrão é `60ms`, mas você pode ajustar esse valor para tornar a animação mais rápida ou mais lenta.
+  
+- **frameLifespan**:
+  - Define o tempo de vida de cada quadro da matriz em milissegundos. Um valor maior faz com que cada quadro permaneça visível por mais tempo antes de desaparecer.
+
+- **sparkleNess**:
+  - Ajusta a intensidade do brilho da matriz. O valor vai de `0` a `1`. Um valor próximo de `1` aumenta o brilho, enquanto um valor próximo de `0` reduz o brilho.
+
+- **decayStart**:
+  - Controla o tempo, em milissegundos, após o qual a animação de dissolução começa. O valor padrão é `2000ms`, ou seja, a dissolução começa após 2 segundos.
+
+- **decaySpeed**:
+  - Define a velocidade da dissolução dos quadros. Quanto maior o valor, mais suave será o efeito de deterioração.
+
+- **horizontalSpeed** e **verticalSpeed**:
+  - Ajustam a propagação da destruição horizontal e vertical da matriz. Valores entre `0` e `1` permitem que você controle o quão rápido a matriz se deteriora na horizontal e vertical.
