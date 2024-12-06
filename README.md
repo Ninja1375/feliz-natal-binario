@@ -54,7 +54,7 @@ Para rodar este projeto em sua máquina local, siga os seguintes passos:
 
 1. **Faça o download ou clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/feliz-natal-binario.git
+   git clone https://github.com/Ninja1375/feliz-natal-binario.git
 
 2. **Abra o arquivo `index.html`**:
    - O projeto não depende de servidores backend, então você pode simplesmente abrir o arquivo `index.html` em qualquer navegador moderno.
