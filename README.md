@@ -41,7 +41,7 @@ Este projeto contém várias funcionalidades para criar uma experiência única 
 2. **Efeitos de Digitação Dinâmica**:
    - Duas mensagens são exibidas na tela com um efeito de digitação:
      - **"Feliz Natal"** (primeira mensagem)
-     - **"E um 2025 repleto de códigos"** (segunda mensagem)
+     - **"E um 2025 repleto de (códigos)coisas boas"** (segunda mensagem)
    - As mensagens são digitadas uma letra por vez, com uma animação de "apagamento" antes de mostrar a próxima mensagem.
 
 3. **Efeito de Dissolução**:
