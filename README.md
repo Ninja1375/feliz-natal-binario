@@ -16,8 +16,8 @@ A proposta de "Feliz Natal Binário" é envolver o usuário com uma atmosfera fe
 
 Este projeto utiliza as seguintes tecnologias:
 
-- **HTML5**: Estrutura do projeto, definindo a marcação semântica do conteúdo.
-- **CSS3**: Estilização das animações, efeitos de transição e layout responsivo.
+- **HTML**: Estrutura do projeto, definindo a marcação semântica do conteúdo.
+- **CSS**: Estilização das animações, efeitos de transição e layout responsivo.
 - **JavaScript**: Lógica de animação, manipulação da DOM e efeitos interativos.
 - **UIkit**: Framework CSS para facilitar o design responsivo e componentes interativos.
 - **jQuery**: Manipulação da DOM e auxílio na criação da animação de digitação.
