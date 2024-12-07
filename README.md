@@ -2,6 +2,10 @@
 
 "Feliz Natal Binário" é um projeto criativo e interativo que traz uma fusão de animações inspiradas no filme *Matrix* com uma mensagem especial de Natal e um toque de programação. A proposta é proporcionar uma experiência única e visualmente envolvente com animações dinâmicas e um toque de magia para saudar o Natal e o novo ano.
 
+**Veja o projeto ao vivo:**
+
+**[Feliz Natal Binário](https://ninja1375.github.io/feliz-natal-binario/)**
+
 ## 🎯 Objetivo do Projeto
 
 Este projeto foi criado para:
