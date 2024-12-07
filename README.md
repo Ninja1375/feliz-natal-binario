@@ -15,22 +15,10 @@ A proposta de "Feliz Natal Binário" é envolver o usuário com uma atmosfera fe
 ## 🛠️ Tecnologias Utilizadas
 
 <a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-</a>
-<a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
-<a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Adicionando o UIKit -->
-<a href="https://getuikit.com/" target="_blank">
-  <img loading="lazy" src="https://raw.githubusercontent.com/uikit/uikit/772522a0afc623afe363b139954cb2d9f4c4f017/src/images/icons/uikit.svg" width="40" height="40"/>
-</a>
-
-<!-- Adicionando o jQuery -->
-<a href="https://jquery.com/" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+</a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a> <a href="https://getuikit.com/" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/uikit/uikit/772522a0afc623afe363b139954cb2d9f4c4f017/src/images/icons/uikit.svg" width="40" height="40"/>
+</a> <a href="https://jquery.com/" target="_blank"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
 </a>
 
 Este projeto utiliza as seguintes tecnologias:
