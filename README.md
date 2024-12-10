@@ -6,6 +6,9 @@
 
 **[Feliz Natal Binário](https://ninja1375.github.io/feliz-natal-binario/)**
 
+![Feliz Natal Binário ](https://github.com/user-attachments/assets/68262c79-66f7-4ad8-830a-90fe2afc861d)
+
+
 ## 🎯 Objetivo do Projeto
 
 Este projeto foi criado para:
